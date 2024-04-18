@@ -1,0 +1,37 @@
+{
+  "name": "shadow-dev",
+  "displayName": "ShadowDev",
+  "description": "My theme",
+  "version": "0.0.1",
+  "publisher": "AlvinDennis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvin-dennis/ShadowSpectrum.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "shadow",
+    "spectrum",
+    "shadow-spectrum",
+    "dev"
+  ],
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ShadowSpectrum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ShadowSpectrum-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^1.97.0"
+  }
+}
