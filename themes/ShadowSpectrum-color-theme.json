@@ -2,9 +2,14 @@
 	"name": "ShadowSpectrum",
 	"colors": {
 		"editor.background": "#0a0912",
-		"editor.foreground": "#eeffff02",
+		"editor.foreground": "#01010102",
 		"activityBarBadge.background": "#000000",
-		"sideBarTitle.foreground": "#fefbfb"
+		"activityBar.background": "#1c1a1a",
+		"activityBar.activeBackground": "#2a2828",
+		"sideBarTitle.foreground": "#fefbfb",
+		"sideBar.background": "#0b0b0b",
+		"sideBarActivityBarTop.border": "#131212",
+		"titleBar.activeBackground": "#100f0f"
 	},
 	"tokenColors": [
 		{
@@ -25,7 +30,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#be0010"
+				"foreground": "#e6e1e1"
 			}
 		},
 		{
@@ -99,7 +104,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#0454ff"
+				"foreground": "#588dff"
 			}
 		},
 		{
@@ -118,7 +123,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#b5262d"
+				"foreground": "#d3d31c"
 			}
 		},
 		{
