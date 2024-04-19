@@ -624,6 +624,16 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
+		},
+		// Python 
+		{
+			"name": "Python test",
+			"scope": [
+				"source.python"
+			],
+			"settings": {
+				"foreground": "#ebebeb" 	// change the colour 
+			}
 		}
 	]
 }
