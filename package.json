@@ -6,7 +6,7 @@
   "publisher": "ShadowSpectrum",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alvin-dennis/shadow-dev.git"
+    "url": "https://github.com/alvin-dennis/shadow-dev"
   },
   "keywords": [
     "theme",
@@ -14,8 +14,15 @@
     "shadow",
     "spectrum",
     "shadow-spectrum",
-    "dev"
+    "dev",
+    "dark-theme",
+    "vscode-theme",
+    "vscode-dark-theme",
+    "vscode-shadow-theme",
+    "new-theme",
+    "new-dark-theme"
   ],
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.88.0"
   },

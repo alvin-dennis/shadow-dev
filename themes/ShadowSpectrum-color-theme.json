@@ -639,6 +639,3122 @@
 			"settings": {
 				"foreground": "#f8f7f1"
 			}
-		}
+		},
+		{
+			"name": "Log File",
+			"scope": [
+				"source.log"
+			],
+			"settings": {
+			"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Java - Keyword",
+			"scope": [
+				"keyword.control.java"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Java - String",
+			"scope": [
+				"string.quoted.double.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Comment",
+			"scope": [
+				"comment.line.double-slash.java",
+				"comment.block.java"
+			],
+			"settings": {
+				"foreground": "#65737E"
+			}
+		},
+		{
+			"name": "Java - Number",
+			"scope": [
+				"constant.numeric.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Class",
+			"scope": [
+				"entity.name.type.class.java"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Java - Method",
+			"scope": [
+				"entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#C17E70"
+			}
+		},
+		{
+			"name": "Java - Variable",
+			"scope": [
+				"variable.other.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Annotation",
+			"scope": [
+				"storage.type.annotation.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Operator",
+			"scope": [
+				"keyword.operator.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Constant",
+			"scope": [
+				"constant.language.java"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Java - Exception",
+			"scope": [
+				"support.type.exception.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Interface",
+			"scope": [
+				"entity.name.type.interface.java"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Java - Enum",
+			"scope": [
+				"entity.name.type.enum.java"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Java - Static Method",
+			"scope": [
+				"entity.name.function.static.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Static Field",
+			"scope": [
+				"variable.other.constant.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Inherited Method",
+			"scope": [
+				"entity.other.inherited-class.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Inherited Field",
+			"scope": [
+				"entity.other.inherited-class.java variable.other.java"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Java - Type Parameter",
+			"scope": [
+				"entity.name.type.parameter.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Method Declaration",
+			"scope": [
+				"meta.method.java meta.method.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Method Call",
+			"scope": [
+				"meta.method-call.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Declaration",
+			"scope": [
+				"meta.class.java entity.name.type.class.java"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Java - Class Inherited",
+			"scope": [
+				"meta.class.inherited.java entity.other.inherited-class.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Class Variable",
+			"scope": [
+				"meta.class-variable.java variable.other.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Class Method",
+			"scope": [
+				"meta.class-method.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#C17E70"
+			}
+		},
+		{
+			"name": "Java - Class Field",
+			"scope": [
+				"meta.class-field.java variable.other.java"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Java - Class Annotation",
+			"scope": [
+				"meta.class-annotation.java entity.name.type.annotation.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Enum",
+			"scope": [
+				"meta.class-enum.java entity.name.type.enum.java"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Java - Class Interface",
+			"scope": [
+				"meta.class-interface.java entity.name.type.interface.java"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Java - Class Exception",
+			"scope": [
+				"meta.class-exception.java support.type.exception.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Class Type Parameter",
+			"scope": [
+				"meta.class-type-parameter.java entity.name.type.parameter.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Method Declaration",
+			"scope": [
+				"meta.class-method-declaration.java meta.method-declaration.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Class Method Call",
+			"scope": [
+				"meta.class-method-call.java meta.method-call.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Field Declaration",
+			"scope": [
+				"meta.class-field-declaration.java meta.field-declaration.java variable.other.java"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Java - Class Annotation Declaration",
+			"scope": [
+				"meta.class-annotation-declaration.java meta.annotation-declaration.java entity.name.type.annotation.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Enum Declaration",
+			"scope": [
+				"meta.class-enum-declaration.java meta.enum-declaration.java entity.name.type.enum.java"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Java - Class Interface Declaration",
+			"scope": [
+				"meta.class-interface-declaration.java meta.interface-declaration.java entity.name.type.interface.java"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Java - Class Exception Declaration",
+			"scope": [
+				"meta.class-exception-declaration.java meta.exception-declaration.java support.type.exception.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Class Type Parameter Declaration",
+			"scope": [
+				"meta.class-type-parameter-declaration.java meta.type-parameter-declaration.java entity.name.type.parameter.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Method Declaration Call",
+			"scope": [
+				"meta.class-method-declaration-call.java meta.method-declaration-call.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Class Method Call Call",
+			"scope": [
+				"meta.class-method-call-call.java meta.method-call-call.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Field Declaration Call",
+			"scope": [
+				"meta.class-field-declaration-call.java meta.field-declaration-call.java variable.other.java"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Java - Class Annotation Declaration Call",
+			"scope": [
+				"meta.class-annotation-declaration-call.java meta.annotation-declaration-call.java entity.name.type.annotation.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Enum Declaration Call",
+			"scope": [
+				"meta.class-enum-declaration-call.java meta.enum-declaration-call.java entity.name.type.enum.java"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Java - Class Interface Declaration Call",
+			"scope": [
+				"meta.class-interface-declaration-call.java meta.interface-declaration-call.java entity.name.type.interface.java"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Java - Class Exception Declaration Call",
+			"scope": [
+				"meta.class-exception-declaration-call.java meta.exception-declaration-call.java support.type.exception.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Class Type Parameter Declaration Call",
+			"scope": [
+				"meta.class-type-parameter-declaration-call.java meta.type-parameter-declaration-call.java entity.name.type.parameter.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Method Declaration Call Call",
+			"scope": [
+				"meta.class-method-declaration-call-call.java meta.method-declaration-call-call.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Java - Class Method Call Call Call",
+			"scope": [
+				"meta.class-method-call-call-call.java meta.method-call-call-call.java entity.name.function.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Field Declaration Call Call",
+			"scope": [
+				"meta.class-field-declaration-call-call.java meta.field-declaration-call-call.java variable.other.java"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Java - Class Annotation Declaration Call Call",
+			"scope": [
+				"meta.class-annotation-declaration-call-call.java meta.annotation-declaration-call-call.java entity.name.type.annotation.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Java - Class Enum Declaration Call Call",
+			"scope": [
+				"meta.class-enum-declaration-call-call.java meta.enum-declaration-call-call.java entity.name.type.enum.java"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Java - Class Interface Declaration Call Call",
+			"scope": [
+				"meta.class-interface-declaration-call-call.java meta.interface-declaration-call-call.java entity.name.type.interface.java"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Java - Class Exception Declaration Call Call",
+			"scope": [
+				"meta.class-exception-declaration-call-call.java meta.exception-declaration-call-call.java support.type.exception.java"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Java - Class Type Parameter Declaration Call Call",
+			"scope": [
+				"meta.class-type-parameter-declaration-call-call.java meta.type-parameter-declaration-call-call.java entity.name.type.parameter.java"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Python - Function",
+			"scope": [
+				"entity.name.function.python"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Python - Class",
+			"scope": [
+				"entity.name.type.class.python"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Python - Variable",
+			"scope": [
+				"variable.other.python"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Python - String",
+			"scope": [
+				"string.quoted.single.python",
+				"string.quoted.double.python"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Python - Comment",
+			"scope": [
+				"comment.line.python"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Python - Keyword",
+			"scope": [
+				"keyword.python"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Python - Operator",
+			"scope": [
+				"keyword.operator.python"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Python - Number",
+			"scope": [
+				"constant.numeric.python"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Python - Built-in",
+			"scope": [
+				"support.type.builtin.python"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Python - Module",
+			"scope": [
+				"support.type.module.python"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Python - Exception",
+			"scope": [
+				"support.type.exception.python"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Python - Decorator",
+			"scope": [
+				"entity.name.function.decorator.python"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Python - Class Method",
+			"scope": [
+				"meta.class.method.python"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Python - Class Variable",
+			"scope": [
+				"meta.class.variable.python"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Python - Class Attribute",
+			"scope": [
+				"meta.class.attribute.python"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Python - Class Method Call",
+			"scope": [
+				"meta.class.method-call.python"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Python - Class Variable Call",
+			"scope": [
+				"meta.class.variable-call.python"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Python - Class Attribute Call",
+			"scope": [
+				"meta.class.attribute-call.python"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Rust - Function",
+			"scope": [
+				"entity.name.function.rust"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Rust - Struct",
+			"scope": [
+				"entity.name.type.struct.rust"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Rust - Enum",
+			"scope": [
+				"entity.name.type.enum.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Rust - Trait",
+			"scope": [
+				"entity.name.type.trait.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Macro",
+			"scope": [
+				"entity.name.function.macro.rust"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Rust - Variable",
+			"scope": [
+				"variable.other.rust"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Rust - String",
+			"scope": [
+				"string.quoted.single.rust",
+				"string.quoted.double.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Comment",
+			"scope": [
+				"comment.line.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Rust - Keyword",
+			"scope": [
+				"keyword.rust"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Rust - Operator",
+			"scope": [
+				"keyword.operator.rust"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Rust - Number",
+			"scope": [
+				"constant.numeric.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Built-in",
+			"scope": [
+				"support.type.builtin.rust"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Rust - Module",
+			"scope": [
+				"support.type.module.rust"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Rust - Lifetime",
+			"scope": [
+				"entity.name.lifetime.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Rust - Attribute",
+			"scope": [
+				"meta.attribute.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Function Call",
+			"scope": [
+				"meta.function-call.rust"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Rust - Macro Call",
+			"scope": [
+				"meta.macro-call.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Type Parameter",
+			"scope": [
+				"meta.type-parameter.rust"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Rust - Function Definition",
+			"scope": [
+				"meta.function-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Rust - Struct Definition",
+			"scope": [
+				"meta.struct-definition.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Rust - Enum Definition",
+			"scope": [
+				"meta.enum-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Trait Definition",
+			"scope": [
+				"meta.trait-definition.rust"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Rust - Macro Definition",
+			"scope": [
+				"meta.macro-definition.rust"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Rust - Variable Definition",
+			"scope": [
+				"meta.variable-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - String Definition",
+			"scope": [
+				"meta.string-definition.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Rust - Comment Definition",
+			"scope": [
+				"meta.comment-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Keyword Definition",
+			"scope": [
+				"meta.keyword-definition.rust"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Rust - Operator Definition",
+			"scope": [
+				"meta.operator-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Rust - Number Definition",
+			"scope": [
+				"meta.number-definition.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Rust - Built-in Definition",
+			"scope": [
+				"meta.builtin-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Module Definition",
+			"scope": [
+				"meta.module-definition.rust"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Rust - Lifetime Definition",
+			"scope": [
+				"meta.lifetime-definition.rust"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Rust - Attribute Definition",
+			"scope": [
+				"meta.attribute-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Rust - Function Call Definition",
+			"scope": [
+				"meta.function-call-definition.rust"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Rust - Macro Call Definition",
+			"scope": [
+				"meta.macro-call-definition.rust"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Rust - Type Parameter Definition",
+			"scope": [
+				"meta.type-parameter-definition.rust"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Function",
+			"scope": [
+				"entity.name.function.go"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Go - Struct",
+			"scope": [
+				"entity.name.type.struct.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Interface",
+			"scope": [
+				"entity.name.type.interface.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Variable",
+			"scope": [
+				"variable.other.go"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Go - String",
+			"scope": [
+				"string.quoted.single.go",
+				"string.quoted.double.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Comment",
+			"scope": [
+				"comment.line.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Keyword",
+			"scope": [
+				"keyword.go"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Go - Operator",
+			"scope": [
+				"keyword.operator.go"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Go - Number",
+			"scope": [
+				"constant.numeric.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Built-in",
+			"scope": [
+				"support.type.builtin.go"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Go - Package",
+			"scope": [
+				"support.type.package.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Constant",
+			"scope": [
+				"constant.language.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Function Call",
+			"scope": [
+				"meta.function-call.go"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Go - Method Call",
+			"scope": [
+				"meta.method-call.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Type",
+			"scope": [
+				"entity.name.type.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Field",
+			"scope": [
+				"meta.field.go"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Go - Function Parameter",
+			"scope": [
+				"meta.function.parameter.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Function Result",
+			"scope": [
+				"meta.function.result.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Function Definition",
+			"scope": [
+				"meta.function.definition.go"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Go - Struct Definition",
+			"scope": [
+				"meta.struct.definition.go"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Go - Interface Definition",
+			"scope": [
+				"meta.interface.definition.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Variable Definition",
+			"scope": [
+				"meta.variable.definition.go"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Go - String Definition",
+			"scope": [
+				"meta.string.definition.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Comment Definition",
+			"scope": [
+				"meta.comment.definition.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Keyword Definition",
+			"scope": [
+				"meta.keyword.definition.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Operator Definition",
+			"scope": [
+				"meta.operator.definition.go"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Go - Number Definition",
+			"scope": [
+				"meta.number.definition.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Built-in Definition",
+			"scope": [
+				"meta.builtin.definition.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Package Definition",
+			"scope": [
+				"meta.package.definition.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Constant Definition",
+			"scope": [
+				"meta.constant.definition.go"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Go - Function Call Definition",
+			"scope": [
+				"meta.function-call.definition.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Method Call Definition",
+			"scope": [
+				"meta.method-call.definition.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Go - Type Definition",
+			"scope": [
+				"meta.type.definition.go"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Go - Field Definition",
+			"scope": [
+				"meta.field.definition.go"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Go - Function Parameter Definition",
+			"scope": [
+				"meta.function.parameter.definition.go"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Go - Function Result Definition",
+			"scope": [
+				"meta.function.result.definition.go"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Terminal - Background",
+			"scope": [
+				"terminal.background"
+			],
+			"settings": {
+				"foreground": "#000000",
+
+			}
+		},
+		{
+			"name": "Terminal - Text",
+			"scope": [
+				"terminal.foreground"
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Terminal - Cursor",
+			"scope": [
+				"terminalCursor.foreground"
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+
+		{
+			"name": "Output - Text",
+			"scope": [
+				"output.foreground"
+			],
+			"settings": {
+				"foreground": "#FFFFFF",
+			}
+		},
+		{
+			"name": "Debug Console - Text",
+			"scope": [
+				"debugConsole.foreground"
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Debug Console - Error",
+			"scope": [
+				"debugConsole.error"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+		{
+			"name": "Debug Console - Warning",
+			"scope": [
+				"debugConsole.warning"
+			],
+			"settings": {
+				"foreground": "#FFFF00"
+			}
+		},
+		{
+			"name": "Debug Console - Info",
+			"scope": [
+				"debugConsole.info"
+			],
+			"settings": {
+				"foreground": "#00FF00"
+			}
+		},
+		{
+			"name": "Debug Console - Success",
+			"scope": [
+				"debugConsole.success"
+			],
+			"settings": {
+				"foreground": "#00FFFF"
+			}
+		},
+		{ "name": "Pip Package Updater - Package Name", 
+		"scope": [ "entity.name.package.pip" ], 
+		"settings": { "foreground": "#C792EA" } }, 
+		{ "name": "Pip Package Updater - Version Number", 
+		"scope": [ "constant.numeric.version.pip" ], 
+		"settings": { "foreground": "#7175f0" } }, 
+		{ "name": "Pip Package Updater - Command", 
+		"scope": [ "keyword.command.pip" ], 
+		"settings": { "foreground": "#FFCB6B" } }, 
+		{ "name": "Pip Package Updater - Option", 
+		"scope": [ "keyword.option.pip" ], 
+		"settings": { "foreground": "#C3E88D" } }, 
+		{ "name": "Pip Package Updater - Flag", 
+		"scope": [ "keyword.flag.pip" ], 
+		"settings": { "foreground": "#82AAFF" } }, 
+		{ "name": "Pip Package Updater - Error",
+		"scope": [ "keyword.error.pip" ], 
+		"settings": { "foreground": "#FF0000" } },
+		{ "name": "Pip Package Updater - Warning", 
+		"scope": [ "keyword.warning.pip" ], 
+		"settings": { "foreground": "#FFFF00" } },
+		{ "name": "Pip Package Updater - Info", 
+		"scope": [ "keyword.info.pip" ], 
+		"settings": { "foreground": "#00FF00" } }, 
+		{ "name": "Pip Package Updater - Success",
+		"scope": [ "keyword.success.pip" ], 
+		"settings": { "foreground": "#00FFFF" } 
+		},
+		{
+			"name": "C - Keyword",
+			"scope": [
+				"keyword.c"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "C - Function",
+			"scope": [
+				"entity.name.function.c"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "C - Variable",
+			"scope": [
+				"variable.other.c"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "C - String",
+			"scope": [
+				"string.quoted.single.c",
+				"string.quoted.double.c"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "C - Comment",
+			"scope": [
+				"comment.line.c"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "C - Number",
+			"scope": [
+				"constant.numeric.c"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "C - Preprocessor Directive",
+			"scope": [
+				"keyword.control.import.include.c"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "C - Type",
+			"scope": [
+				"entity.name.type.c"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "C - Operator",
+			"scope": [
+				"keyword.operator.c"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "C - Macro",
+			"scope": [
+				"entity.name.function.preprocessor.c"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "PHP - Keyword",
+			"scope": [
+				"keyword.php"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "PHP - Function",
+			"scope": [
+				"support.function.php"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "PHP - Variable",
+			"scope": [
+				"variable.other.php"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "PHP - String",
+			"scope": [
+				"string.quoted.single.php",
+				"string.quoted.double.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Comment",
+			"scope": [
+				"comment.line.php"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "PHP - Number",
+			"scope": [
+				"constant.numeric.php"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "PHP - Class",
+			"scope": [
+				"entity.name.type.class.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Operator",
+			"scope": [
+				"keyword.operator.php"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "PHP - Function Call",
+			"scope": [
+				"meta.function-call.php"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "PHP - Method Call",
+			"scope": [
+				"meta.method-call.php"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "PHP - Constant",
+			"scope": [
+				"constant.language.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Namespace",
+			"scope": [
+				"support.other.namespace.php"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "PHP - Property",
+			"scope": [
+				"meta.property.php"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "PHP - Function Parameter",
+			"scope": [
+				"meta.function.parameter.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Function Result",
+			"scope": [
+				"meta.function.result.php"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "PHP - Function Definition",
+			"scope": [
+				"meta.function.definition.php"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "PHP - Class Definition",
+			"scope": [
+				"meta.class.definition.php"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "PHP - Namespace Definition",
+			"scope": [
+				"meta.namespace.definition.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Variable Definition",
+			"scope": [
+				"meta.variable.definition.php"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "PHP - String Definition",
+			"scope": [
+				"meta.string.definition.php"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "PHP - Comment Definition",
+			"scope": [
+				"meta.comment.definition.php"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "PHP - Number Definition",
+			"scope": [
+				"meta.number.definition.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Constant Definition",
+			"scope": [
+				"meta.constant.definition.php"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "PHP - Function Call Definition",
+			"scope": [
+				"meta.function-call.definition.php"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "PHP - Method Call Definition",
+			"scope": [
+				"meta.method-call.definition.php"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "PHP - Namespace Definition",
+			"scope": [
+				"meta.namespace.definition.php"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "PHP - Property Definition",
+			"scope": [
+				"meta.property.definition.php"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "PHP - Function Parameter Definition",
+			"scope": [
+				"meta.function.parameter.definition.php"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "PHP - Function Result Definition",
+			"scope": [
+				"meta.function.result.definition.php"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Keyword",
+			"scope": [
+				"keyword.sql"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "SQL - Function",
+			"scope": [
+				"support.function.sql"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "SQL - Table",
+			"scope": [
+				"entity.name.table.sql"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "SQL - String",
+			"scope": [
+				"string.quoted.single.sql",
+				"string.quoted.double.sql"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "SQL - Comment",
+			"scope": [
+				"comment.line.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Number",
+			"scope": [
+				"constant.numeric.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Operator",
+			"scope": [
+				"keyword.operator.sql"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "SQL - Variable",
+			"scope": [
+				"variable.other.sql"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "SQL - Function Call",
+			"scope": [
+				"meta.function-call.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Method Call",
+			"scope": [
+				"meta.method-call.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Constant",
+			"scope": [
+				"constant.language.sql"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "SQL - Table Definition",
+			"scope": [
+				"meta.table-definition.sql"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "SQL - Column Definition",
+			"scope": [
+				"meta.column-definition.sql"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "SQL - Function Parameter",
+			"scope": [
+				"meta.function.parameter.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Function Result",
+			"scope": [
+				"meta.function.result.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Query",
+			"scope": [
+				"meta.query.sql"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "SQL - Join",
+			"scope": [
+				"keyword.join.sql"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "SQL - Alias",
+			"scope": [
+				"entity.name.alias.sql"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "SQL - Aggregate Function",
+			"scope": [
+				"support.function.aggregate.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Window Function",
+			"scope": [
+				"support.function.window.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Operator",
+			"scope": [
+				"keyword.operator.sql"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "SQL - Variable Definition",
+			"scope": [
+				"meta.variable.definition.sql"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "SQL - String Definition",
+			"scope": [
+				"meta.string.definition.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Comment Definition",
+			"scope": [
+				"meta.comment.definition.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Number Definition",
+			"scope": [
+				"meta.number.definition.sql"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "SQL - Constant Definition",
+			"scope": [
+				"meta.constant.definition.sql"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "SQL - Function Call Definition",
+			"scope": [
+				"meta.function-call.definition.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Method Call Definition",
+			"scope": [
+				"meta.method-call.definition.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "SQL - Table Definition",
+			"scope": [
+				"meta.table-definition.sql"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "SQL - Column Definition",
+			"scope": [
+				"meta.column-definition.sql"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "SQL - Function Parameter Definition",
+			"scope": [
+				"meta.function.parameter.definition.sql"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "SQL - Function Result Definition",
+			"scope": [
+				"meta.function.result.definition.sql"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Dart - Keyword",
+			"scope": [
+				"keyword.control.dart",
+				"keyword.other.dart"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Dart - Function",
+			"scope": [
+				"entity.name.function.dart",
+				"support.function.dart"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Dart - Variable",
+			"scope": [
+				"variable.other.readwrite.dart",
+				"variable.other.dart"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Dart - String",
+			"scope": [
+				"string.quoted.single.dart",
+				"string.quoted.double.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Comment",
+			"scope": [
+				"comment.line.dart"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Dart - Number",
+			"scope": [
+				"constant.numeric.dart"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Dart - Class",
+			"scope": [
+				"entity.name.type.class.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Operator",
+			"scope": [
+				"keyword.operator.dart"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Dart - Function Call",
+			"scope": [
+				"meta.function-call.dart"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Dart - Method Call",
+			"scope": [
+				"meta.method-call.dart"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Dart - Constant",
+			"scope": [
+				"constant.language.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Namespace",
+			"scope": [
+				"support.other.namespace.dart"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Dart - Property",
+			"scope": [
+				"meta.property.dart"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Dart - Function Parameter",
+			"scope": [
+				"meta.function.parameter.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Function Result",
+			"scope": [
+				"meta.function.result.dart"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Dart - Function Definition",
+			"scope": [
+				"meta.function.definition.dart"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Dart - Class Definition",
+			"scope": [
+				"meta.class.definition.dart"
+			],
+			"settings": {
+				"foreground": "#53ff70"
+			}
+		},
+		{
+			"name": "Dart - Namespace Definition",
+			"scope": [
+				"meta.namespace.definition.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Variable Definition",
+			"scope": [
+				"meta.variable.definition.dart"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Dart - String Definition",
+			"scope": [
+				"meta.string.definition.dart"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Dart - Comment Definition",
+			"scope": [
+				"meta.comment.definition.dart"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Dart - Number Definition",
+			"scope": [
+				"meta.number.definition.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Constant Definition",
+			"scope": [
+				"meta.constant.definition.dart"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Dart - Function Call Definition",
+			"scope": [
+				"meta.function-call.definition.dart"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Dart - Method Call Definition",
+			"scope": [
+				"meta.method-call.definition.dart"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Dart - Namespace Definition",
+			"scope": [
+				"meta.namespace.definition.dart"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Dart - Property Definition",
+			"scope": [
+				"meta.property.definition.dart"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Dart - Function Parameter Definition",
+			"scope": [
+				"meta.function.parameter.definition.dart"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Dart - Function Result Definition",
+			"scope": [
+				"meta.function.result.definition.dart"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Markup - Tag",
+			"scope": [
+				"entity.name.tag.markup"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Markup - Attribute",
+			"scope": [
+				"entity.other.attribute-name.markup"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - String",
+			"scope": [
+				"string.quoted.double.markup",
+				"string.quoted.single.markup"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Markup - Comment",
+			"scope": [
+				"comment.block.html"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Markup - Doctype",
+			"scope": [
+				"entity.name.tag.doctype.html"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Markup - Meta Tag",
+			"scope": [
+				"meta.tag.metadata.html"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Meta Tag Attribute",
+			"scope": [
+				"meta.tag.metadata.html entity.other.attribute-name.html"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Markup - Entity",
+			"scope": [
+				"entity.name.tag.custom.html"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Markup - Entity Attribute",
+			"scope": [
+				"entity.other.attribute-name.html"
+			],
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "Markup - Entity Other",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#7175f0"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Punctuation",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html punctuation"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value String",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html string.quoted"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Number",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.numeric"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Boolean",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.boolean"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Null",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html constant.language.null"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Entity Other Attribute Value Operator",
+			"scope": [
+				"entity.other.attribute-name.html entity.other.attribute-name.html keyword.operator"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
+			"name": "Markup - Heading",
+			"scope": [
+				"markup.heading"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+		{
+			"name": "Markup - Bold",
+			"scope": [
+				"markup.bold"
+			],
+			"settings": {
+				"foreground": "#00FF00"
+			}
+		},
+		{
+			"name": "Markup - Italic",
+			"scope": [
+				"markup.italic"
+			],
+			"settings": {
+				"foreground": "#0000FF"
+			}
+		},
+		{
+			"name": "Markup - Link",
+			"scope": [
+				"markup.underline.link"
+			],
+			"settings": {
+				"foreground": "#FF00FF"
+			}
+		},
+		{
+			"name": "Markup - Code",
+			"scope": [
+				"markup.inline.raw",
+				"markup.fenced_code.block.markdown"
+			],
+			"settings": {
+				"foreground": "#FFFF00"
+			}
+		},
+		{
+			"name": "Markup - Quote",
+			"scope": [
+				"markup.quote"
+			],
+			"settings": {
+				"foreground": "#00FFFF"
+			}
+		},
+		{
+			"name": "Markup - List",
+			"scope": [
+				"markup.list"
+			],
+			"settings": {
+				"foreground": "#FFA500"
+			}
+		},
+		{
+			"name": "Markup - Task List",
+			"scope": [
+				"markup.list.markdown meta.item.todo"
+			],
+			"settings": {
+				"foreground": "#FF4500"
+			}
+		},
+		{
+			"name": "Markup - Table",
+			"scope": [
+				"markup.table"
+			],
+			"settings": {
+				"foreground": "#008080"
+			}
+		},
+		{
+			"name": "Markup - Horizontal Rule",
+			"scope": [
+				"meta.separator.markdown"
+			],
+			"settings": {
+				"foreground": "#800080"
+			}
+		},
+		{
+			"name": "Kotlin - Keyword",
+			"scope": [
+				"keyword.control.kotlin",
+				"keyword.declaration.kotlin",
+				"keyword.other.kotlin"
+			],
+			"settings": {
+				"foreground": "#FF0000"
+			}
+		},
+		{
+			"name": "Kotlin - Function",
+			"scope": [
+				"entity.name.function.kotlin"
+			],
+			"settings": {
+				"foreground": "#00FF00"
+			}
+		},
+		{
+			"name": "Kotlin - Class",
+			"scope": [
+				"entity.name.type.class.kotlin"
+			],
+			"settings": {
+				"foreground": "#0000FF"
+			}
+		},
+		{
+			"name": "Kotlin - String",
+			"scope": [
+				"string.quoted.kotlin"
+			],
+			"settings": {
+				"foreground": "#FF00FF"
+			}
+		},
+		{
+			"name": "Kotlin - Comment",
+			"scope": [
+				"comment.line.kotlin",
+				"comment.block.kotlin"
+			],
+			"settings": {
+				"foreground": "#FFFF00"
+			}
+		},
+		{
+			"name": "Kotlin - Number",
+			"scope": [
+				"constant.numeric.kotlin"
+			],
+			"settings": {
+				"foreground": "#00FFFF"
+			}
+		},
+		{
+			"name": "Kotlin - Annotation",
+			"scope": [
+				"meta.annotation.kotlin"
+			],
+			"settings": {
+				"foreground": "#FFA500"
+			}
+		},
+		{
+			"name": "Kotlin - Operator",
+			"scope": [
+				"keyword.operator.kotlin"
+			],
+			"settings": {
+				"foreground": "#FF4500"
+			}
+		},
+		{
+			"name": "Kotlin - Variable",
+			"scope": [
+				"variable.other.kotlin"
+			],
+			"settings": {
+				"foreground": "#008080"
+			}
+		},
+		{
+			"name": "Kotlin - Type Parameter",
+			"scope": [
+				"entity.name.type.type-parameter.kotlin"
+			],
+			"settings": {
+				"foreground": "#800080"
+			}
+		},
+
+
+			
+
+
+
+
+
+
+		
 	]
 }

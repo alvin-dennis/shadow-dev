@@ -4,11 +4,11 @@
 
 This is a dark theme for Visual Studio Code designed to provide a comfortable coding experience with eye-friendly colors and good readability.
 
-![Snaps](assets/Theme1.png)
+![Sample1](assets/Theme1.png)
 
-![Snaps](assets/Theme2.png)
+![Sample2](assets/Theme2.png)
 
-![Snaps](assets/Theme3.png)
+![Sample 3](assets/Theme3.png)
 
 ## Installation
 
