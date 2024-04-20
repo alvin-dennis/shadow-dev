@@ -8,7 +8,6 @@ This is a dark theme for Visual Studio Code designed to provide a comfortable co
 
 ![Sample2](assets/Theme2.png)
 
-![Sample3](assets/Theme3.png)
 
 ## Installation
 
