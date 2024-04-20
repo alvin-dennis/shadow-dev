@@ -30,7 +30,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#e6e1e1"
+				"foreground": "#76bc1a"
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#cb5430"
+				"foreground": "#beb72d"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#f6ff53"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#a6c12d"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 				"source.python"
 			],
 			"settings": {
-				"foreground": "#ebebeb" 	// change the colour 
+				"foreground": "#f8f7f1" 	// change the colour 
 			}
 		}
 	]
