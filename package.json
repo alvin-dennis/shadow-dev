@@ -1,12 +1,12 @@
 {
   "name": "shadow-dev",
   "displayName": "ShadowDev",
-  "description": "My theme",
+  "description": "A dark VScode theme with a shadowy spectrum of colors.",
   "version": "0.4.0",
   "publisher": "ShadowSpectrum",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alvin-dennis/ShadowSpectrum.git"
+    "url": "https://github.com/alvin-dennis/shadow-dev.git"
   },
   "keywords": [
     "theme",
