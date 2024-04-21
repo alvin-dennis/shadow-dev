@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a dark theme for Visual Studio Code designed to provide a comfortable coding experience with eye-friendly colors and good readability.
+This is a dark theme for Visual Studio Code designed to provide a comfortable coding experience with eye-friendly colors and good readability and avreage contrast.
 
 ![Sample1](assets/Theme1.png)
 
@@ -22,6 +22,7 @@ This is a dark theme for Visual Studio Code designed to provide a comfortable co
 - Dark background with high contrast colors.
 - Syntax highlighting optimized for various programming languages.
 - Customized colors for different code elements for better readability.
+- Low contrast for better visibility
 - Support for popular VSCode extensions.
 
 
