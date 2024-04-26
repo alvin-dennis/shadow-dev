@@ -195,7 +195,7 @@
 		"settings": {
 		  "foreground": "#625e06"
 		}
-	  },
+	  }, 
 	  {
 		"name": "js/ts variable.other.constant",
 		"scope": "variable.other.constant",
@@ -989,14 +989,14 @@
 		"name": "illegal",
 		"scope": "invalid.illegal",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#ea2222"
 		}
 	  },
 	  {
 		"name": "illegal",
 		"scope": "invalid.illegal.bad-ampersand.html",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#e32a2a"
 		}
 	  },
 	  {
@@ -1010,7 +1010,7 @@
 		"name": "Deprecated",
 		"scope": "invalid.deprecated",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#c0bd23"
 		}
 	  },
 	  {
@@ -1546,7 +1546,7 @@
 		  "meta.scope.prerequisites.makefile"
 		],
 		"settings": {
-		  "foreground": "#09606f"
+		  "foreground": "#156470"
 		}
 	  },
 	  {
@@ -1972,7 +1972,7 @@
 	  "editorGutter.foldingControlForeground": "#d12fff",
 	  "editorCodeLens.foreground": "#5af0ff",
 	  "editorGroup.border": "#ffffff",
-	  "diffEditor.insertedTextBackground": "#07ff5d33",
+	  "diffEditor.insertedTextBackground": "#4c9e677e",
 	  "diffEditor.insertedTextBorder": "#080808",
 	  "diffEditor.removedTextBackground": "#ff000033",
 	  "diffEditor.removedTextBorder": "#0a0a0a",
@@ -2098,7 +2098,7 @@
 	  "minimap.errorHighlight": "#ff2b00",
 	  "minimap.warningHighlight": "#cca700",
 	  "minimap.background": "#0b0b0b",
-	  "sideBar.dropBackground": "#383b3d",
+	  "sideBar.dropBackground": "#202122",
 	  "editorGroup.emptyBackground": "#000000",
 	  "panelSection.border": "#ffffff59",
 	  "statusBarItem.activeBackground": "#FFFFFF25",
@@ -2108,6 +2108,7 @@
 	  "breadcrumb.activeSelectionForeground": "#ffffff",
 	  "editorGutter.commentRangeForeground": "#d12fff",
 	  "debugExceptionWidget.background": "#131212",
-	  "debugExceptionWidget.border": "#474747"
+	  "debugExceptionWidget.border": "#474747",
+	  "editor.stackFrameHighlightBackground": "#ffffff0b"
 	}
   }
